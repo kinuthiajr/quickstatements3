@@ -1,0 +1,10 @@
+/* Override styles for anchor buttons */
+a[role="button"] {
+    background-color: blue ;  
+    
+}
+
+/* Override styles for input submit buttons */
+input[type="submit"] {
+    background-color: blue;
+}
