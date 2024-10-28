@@ -22,4 +22,4 @@ ID helps in tracking and managing specific batches and allows users to reference
 
 **Username** - This field ensures that all edits made through Quickstatements are credited to the correct user, this allows accountability and tracking of contributions. It also links and authenticates the user to their Quickstatements account and their contribution actions.
 
-**See batch by user**  - Allows filter and view batches of edits by a specific user.
+**See batch by user**  - Users can use the search just to search for a batch.
