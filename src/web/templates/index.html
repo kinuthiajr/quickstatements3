@@ -1,5 +1,16 @@
 {% extends "layout.html" %}
 
+{% block css %}
+<style>
+  .article a[role="button"] {
+      background-color: blue !important;
+  }
+  input[type="submit"] {
+      background-color: blue !important;
+  }
+</style>
+{% endblock %}
+
 {% block content %}
 
 <h1> Welcome to QuickStatements 3.0 </h1>
